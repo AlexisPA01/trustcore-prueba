@@ -22,8 +22,8 @@ API REST desarrollada con FastAPI para consultar vulnerabilidades desde la NVD A
 Clonar el repositorio:
 
 ```bash
-git clone <https://github.com/AlexisPA01/trustcore-prueba.git>
-cd trustcore
+git clone https://github.com/AlexisPA01/trustcore-prueba.git
+cd trustcore-prueba
 ```
 
 Crear entorno virtual:
